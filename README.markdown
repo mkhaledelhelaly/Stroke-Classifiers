@@ -1,4 +1,4 @@
-#Stroke Data Clustering Analysis
+# Stroke Data Clustering Analysis
 
 ## Overview
 This Jupyter Notebook (`Milestone_2 (1).ipynb`) performs clustering analysis on a stroke dataset to identify natural groupings of patients based on their characteristics and assess stroke risk patterns. The notebook uses unsupervised learning techniques, specifically K-means and Hierarchical Clustering, and compares the results with supervised learning classifier predictions. The goal is to uncover insights into patient risk profiles that may complement supervised learning approaches.
